@@ -11,3 +11,5 @@ Codes of building a hybrid GP model to do university evaluation forecasting.
 
 For now we cannot provide the academic evaluation indicator dataset as it is from CNKI, which needs users to pay to obtain the data. One can contact the CNKI official for access of this data. 
 
+We also recommend users to convert `main.ipynb` to `main.py` and run it on the GPU servers.
+
